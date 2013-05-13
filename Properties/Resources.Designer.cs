@@ -66,12 +66,5 @@ namespace MySvnDemo.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
-        
-        internal static System.Drawing.Bitmap V0Hre {
-            get {
-                object obj = ResourceManager.GetObject("V0Hre", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }
