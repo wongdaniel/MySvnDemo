@@ -35,7 +35,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.pictureBox1.Image = global::MySvnDemo.Properties.Resources.V0Hre;
+            this.pictureBox1.Image = global::MySvnDemo.Properties.Resources._516bde8d5668e373f30075d3;
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(827, 382);

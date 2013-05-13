@@ -121,4 +121,7 @@
   <data name="V0Hre" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\V0Hre.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="516bde8d5668e373f30075d3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\516bde8d5668e373f30075d3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

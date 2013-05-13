@@ -60,6 +60,13 @@ namespace MySvnDemo.Properties {
             }
         }
         
+        internal static System.Drawing.Bitmap _516bde8d5668e373f30075d3 {
+            get {
+                object obj = ResourceManager.GetObject("516bde8d5668e373f30075d3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
         internal static System.Drawing.Bitmap V0Hre {
             get {
                 object obj = ResourceManager.GetObject("V0Hre", resourceCulture);
