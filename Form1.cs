@@ -15,5 +15,15 @@ namespace MySvnDemo
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello,world");
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            new prettyGirl().Show();
+        }
     }
 }
